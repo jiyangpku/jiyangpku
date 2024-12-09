@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+### 我的 Gist
+
+[查看我的 Gist](https://gist.github.com/jiyangpku/79b6599fd63dec209c889846e8cdcd7e)
 <!--
 **jiyangpku/jiyangpku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
